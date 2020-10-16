@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm that i have used, studied during Competitive Programming
+Algorithm that i have studied during Preparing for Competitive Programming
