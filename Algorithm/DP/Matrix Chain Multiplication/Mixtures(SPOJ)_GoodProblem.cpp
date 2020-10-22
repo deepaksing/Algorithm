@@ -1,3 +1,5 @@
+//Problem Link: https://www.spoj.com/problems/MIXTURES/
+
 #include<bits/stdc++.h>
 
 #define int long long
