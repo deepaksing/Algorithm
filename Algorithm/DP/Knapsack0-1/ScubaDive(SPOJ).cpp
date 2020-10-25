@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/SCUBADIV/
 #include <bits/stdc++.h>
 #define int long long
 #define endl "\n" 
