@@ -1,4 +1,4 @@
-//https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A
+//codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A
 #include<bits/stdc++.h>
 #define int long long
 #define endl "\n"
