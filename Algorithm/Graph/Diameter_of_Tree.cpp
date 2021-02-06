@@ -1,4 +1,12 @@
-    ////                         OUTPUT:
+        1
+      2   3
+    4  5   6
+   7      8 
+
+
+
+
+////                         OUTPUT:
     
     
     //               starts from 7 ---> 8  and distance: 7
